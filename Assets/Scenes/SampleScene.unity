@@ -782,6 +782,10 @@ MonoBehaviour:
   movementSpeed: 30
   xClampRange: 22
   yClampRange: 12
+  ControlRollFactor: 20
+  RotationSpeed: 20
+  ControlPitchFactor: 20
+  PitchRotationSpeed: 20
 --- !u!114 &1126423175
 MonoBehaviour:
   m_ObjectHideFlags: 0
